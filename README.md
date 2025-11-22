@@ -17,27 +17,6 @@ The project is divided into two main analyses:
 1. **Global Analysis** – Worldwide progress, catch-up effect, health shocks (HIV/AIDS, COVID-19), convergence between countries  
 2. **Italy Deep Dive** – Italy’s performance compared to Western Europe, G7, Americas, Mediterranean countries, BRICS+, and the world
 
-All charts are automatically generated and saved in `results/img/`.
-
-## Repository Structure
-
-```
-life-expectancy-analysis/
-│
-├── data/
-│   └── lifexp.csv                 # Cleaned dataset (1950–2023 only)
-│
-├── src/
-│   └── main.py                    # Single script running both full analyses
-│
-├── results/
-│   └── img/                       # Automatically generated plots
-│       ├── global_*.png
-│       └── italy_*.png
-│
-└── README.md                      # This file
-
-```
 
 ## Key Findings
 
