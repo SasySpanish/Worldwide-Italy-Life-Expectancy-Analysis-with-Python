@@ -35,9 +35,8 @@ life-expectancy-analysis/
 │       ├── global_*.png
 │       └── italy_*.png
 │
-├── README.md                      # This file
-├── requirements.txt
-└── .gitignore
+└── README.md                      # This file
+
 ```
 
 ## Key Findings
@@ -54,25 +53,6 @@ life-expectancy-analysis/
 - Outperforms G7 average by **+2.4 years**, Eastern Europe and BRICS+ by **10–12 years**
 - One of the most resilient Western countries during COVID-19
 
-## How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/life-expectancy-analysis.git
-cd life-expectancy-analysis
-
-# 2. Create a virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the full analysis
-python src/main.py
-```
-
-All plots will be saved automatically in `results/img/`.
 
 ## Sample Visualizations
 
