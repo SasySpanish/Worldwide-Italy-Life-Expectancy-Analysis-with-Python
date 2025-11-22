@@ -12,7 +12,7 @@ This folder contains all the outputs of the complete analysis performed in `src/
 ![Great Chinese Famine & COVID-19](img/fall.png)  
 The only two events since 1950 that caused a decline in global life expectancy for consecutive years are:  
 - the **Great Leap Forward famine in China (1959–1961)**, which lowered world life expectancy by ~4 years in just two years (30–45 million deaths), and  
-- the **COVID-19 pandemic (2019–2021)**, which caused a smaller but still unprecedented drop of ~1.3 years — fully recovered by 2023.
+- the **COVID-19 pandemic (2020–2021)**, which caused a smaller but still unprecedented drop of ~1.3 years — fully recovered by 2023.
 
 ### 3. Top 15 Countries – Biggest Gains (1950 → 2023)
 ![Top 15 Biggest Gains](img/top15_increase.png)  
