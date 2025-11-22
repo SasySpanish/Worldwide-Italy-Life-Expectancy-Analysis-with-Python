@@ -26,7 +26,7 @@ The project is divided into two main analyses:
 - Biggest gain: **South Korea** (+62 years)
 - ![Top 15 Biggest Gains](results/img/top15_increase.png)
 - Sub-Saharan Africa is the only major region still lagging (HIV/AIDS setback 1990–2005 clearly visible)
-- ![aa](results/img/hiv%africa.png)
+- ![aa](results/img/hiv%20africa.png)
 - The Great Chinese Famine (1959–61) and COVID-19 (2020-2021) caused the major global drop since 1950.
 - ![aa](results/img/fall.png)
 - 
